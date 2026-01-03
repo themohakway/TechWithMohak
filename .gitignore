@@ -1,0 +1,19 @@
+# Ignore all executable files
+*.exe
+
+# Optional: also ignore other common build artifacts for C++ projects
+*.o
+*.obj
+*.out
+*.a
+*.so
+*.dll
+
+# Ignore VS Code settings if present (common in workspaces)
+.vscode/
+*.code-workspace
+
+# Ignore any build directories if you create them later
+build/
+Debug/
+Release/
